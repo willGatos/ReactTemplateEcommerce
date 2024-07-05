@@ -1,0 +1,8 @@
+TODO: Instalar Google analytics
+TODO: 
+
+TODO: Crear la página falsa para poder ver quien es que entra
+TODO: Añadirle el set LocalStorage el valor del afiliado
+TODO: Toma el link y lo redirige
+
+TODO: Redirigir todas las rutas de Shop a User
